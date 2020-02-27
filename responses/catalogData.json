@@ -1,0 +1,50 @@
+[
+  {
+    "id_product": 0,
+    "product_name": "Процессор",
+    "price": 100,
+    "img": "https://i.ibb.co/s9gr3sF/1514188160141511997.jpg"
+  },
+  {
+    "id_product": 1,
+    "product_name": "Монитор",
+    "price": 120,
+    "img": "https://i.ibb.co/Y8FLz2v/HMUB2.png"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Ноутбук",
+    "price": 1000,  
+    "img": "https://i.ibb.co/P1HmQS7/Xiaomi-Mi-Notebook-Air.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Мышь",
+    "price": 15,
+    "img": "https://i.ibb.co/jfYmLvN/640-05-lg.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Клавиатура",
+    "price": 18,
+    "img": "https://i.ibb.co/nbJxcp2/81-PLqxtr-J3-L-SX466.png"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Наушники",
+    "price": 30,
+    "img": "https://i.ibb.co/K20pMT7/126-08-lg.jpg"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Микрофон",
+    "price": 20,
+    "img": "https://i.ibb.co/FXGbBjW/126-04-lg.jpg"
+  },
+  {
+    "id_product": 7,
+    "product_name": "Коврик",
+    "price": 10,
+    "img": "https://i.ibb.co/m4jhQ3N/520-34-lg.jpg"
+  }
+]
